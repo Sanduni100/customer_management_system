@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-[#f6f4f8] text-[#2a2438] font-body antialiased;
+}
+
+h1, h2, h3 {
+  @apply font-display font-semibold tracking-tight;
+}
