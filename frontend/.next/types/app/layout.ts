@@ -1,4 +1,4 @@
-// File: C:\Users\Raveesha Sanduni\Downloads\evotec-assignment (1)\evotec-assignment\frontend\app\layout.js
+// File: C:\Users\Raveesha Sanduni\Desktop\customer_management_system\frontend\app\layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

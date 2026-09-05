@@ -1,4 +1,4 @@
-// File: C:\Users\Raveesha Sanduni\Downloads\evotec-assignment (1)\evotec-assignment\frontend\app\page.js
+// File: C:\Users\Raveesha Sanduni\Desktop\customer_management_system\frontend\app\page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
